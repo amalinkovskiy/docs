@@ -8,6 +8,3 @@ git commit -m "First commit" <br>
 git remote <br>
 git remote show origin <br>
 git push origin gh-pages <br>
-
-
-
