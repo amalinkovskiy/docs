@@ -1,4 +1,5 @@
 # docs
+https://git-scm.com/book/ru/v1/
 git status <br>
 git checkout -b gh-pages <br>
 git clone https://github.com/amalinkovskiy/js.ru.git <br>
